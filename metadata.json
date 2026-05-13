@@ -1,0 +1,6 @@
+{
+  "name": "Payhero Payment App",
+  "description": "A simple page to make payments using the Payhero API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
